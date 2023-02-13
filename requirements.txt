@@ -1,0 +1,4 @@
+qbittorrent-api
+urlopen
+lxml
+bs4
